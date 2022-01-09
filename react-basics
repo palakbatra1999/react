@@ -1,3 +1,5 @@
+Like me button->
+===============================================
 import { useState } from "react";
 import "./styles.css";
 
@@ -18,3 +20,4 @@ function likeclickhandler()
     </div>
   );
 }
+=============================================
