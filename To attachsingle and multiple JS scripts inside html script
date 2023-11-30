@@ -1,0 +1,35 @@
+Single :
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your HTML Page</title>
+    <!-- Linking your JavaScript file -->
+    <script src="your_script.js"></script>
+</head>
+<body>
+    <!-- Your HTML content goes here -->
+</body>
+</html>
+
+
+
+Multiple :
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your HTML Page</title>
+    <!-- Linking multiple JavaScript files -->
+    <script src="first_script.js"></script>
+    <script src="second_script.js"></script>
+    <script src="third_script.js"></script>
+</head>
+<body>
+    <!-- Your HTML content goes here -->
+</body>
+</html>
